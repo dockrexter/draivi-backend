@@ -1,0 +1,16 @@
+{
+    "name": "dockrexter/draivi-backend-test",
+    "description": "Draivi Backend Test",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2",
+        "php-webdriver/webdriver": "^1.15",
+        "symfony/panther": "^2.1",
+        "devcoder-xyz/php-dotenv": "^2.1"
+    },
+    "require-dev": {
+        "dbrekelmans/bdi": "^1.3"
+    }
+}
