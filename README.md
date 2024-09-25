@@ -88,6 +88,7 @@ Open your browser with the link below and you will see the below output.
 ```bash
 http://localhost/draivi-backend/access_page.php
 ```
+here is demo gif:
 
 ![Output](images/access_page.gif)
 
